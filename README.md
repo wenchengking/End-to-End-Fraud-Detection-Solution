@@ -1,5 +1,4 @@
-# dataMining
-Data Mining Project: Unsupervised Machine Learning
+Credit Card Fraud Detection
 
 Data (as pickle file) can be found at [google drive folder](https://drive.google.com/drive/u/1/folders/1yw2Y3cxsSXTgbTJg5nSaLs2cwNSPhWXl). All data are publicly available and are referred in the code as `pd.read_pickle(URL)`. 
  
